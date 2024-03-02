@@ -31,6 +31,7 @@ Abdur Razzak</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
+	 	<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/profile.php?id=100019368175572"><p style="inline">Facebook :</p></a>
         <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/saurabhmchavan/](https://www.linkedin.com/in/abdur-razzak-6aa21a239/)">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="[https://github.com/100rabhcsmc](https://github.com/Razzak118348)">
@@ -46,10 +47,8 @@ Abdur Razzak</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-	 <div> <p style="inline">Facebook :</p>
-	<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/profile.php?id=100019368175572">
-      </div>
+
+  
 
 </p>
 
