@@ -32,9 +32,9 @@ Abdur Razzak</a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 	<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/profile.php?id=100019368175572"><p style="inline">Facebook :</p></a>
-        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/saurabhmchavan/](https://www.linkedin.com/in/abdur-razzak-6aa21a239/)">
+        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/abdur-razzak-6aa21a239/]">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="[https://github.com/100rabhcsmc](https://github.com/Razzak118348)">
+        <a style="margin-left: 10px;" target="_blank" href="[https://github.com/Razzak118348]">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
