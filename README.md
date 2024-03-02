@@ -22,7 +22,7 @@ Abdur Razzak</a></h1>
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **abdurrazzak118348@gmail.com**
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
