@@ -32,7 +32,7 @@ Abdur Razzak</a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 	<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/profile.php?id=100019368175572"><p style="inline">Facebook :</p></a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdur-razzak-6aa21a239/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdur-razzak-0a3b91321/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Razzak118348">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
