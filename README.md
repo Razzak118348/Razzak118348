@@ -24,7 +24,7 @@ Abdur Razzak</a></h1>
 
 - 📫 How to reach me **abdurrazzak118348@gmail.com**
 
-- 📄 Know about my experiences <a href="https://razzak118348.github.io/developer-portfolio/developer_portfolio.html" target="blank">Resume</a>
+- 📄 Know about my experiences : <a href="https://www.linkedin.com/in/abdur-razzak-0a3b91321/">Abdur Razzak </a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -53,10 +53,10 @@ Abdur Razzak</a></h1>
 </p>
 
 ### Some Projects live link 
-[https://github.com/Razzak118348/CraftedCanvas-client-site]
-[https://github.com/Razzak118348/Lab-website] 
-[https://github.com/Razzak118348/Book-Revie]
-[https://github.com/Razzak118348/hstu-buss-solution]
+<a href=" https://craftedcanvas10.web.app/">Crafted Canvas</a>
+<a href="https://lab-research-f5c1b.web.app/">DIoT Lab for HSTU Professor</a>
+<a href="https://charming-cottage.web.app/">Charming Cottage</a>
+
 ---
 
 
