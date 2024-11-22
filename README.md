@@ -53,8 +53,8 @@ Abdur Razzak</a></h1>
 </p>
 
 ### Some Projects live link 
-<a href=" https://craftedcanvas10.web.app/">Crafted Canvas</a>
-<a href="https://lab-research-f5c1b.web.app/">DIoT Lab for HSTU Professor</a>
+<a href="https://craftedcanvas10.web.app/">Crafted Canvas</a> <br/>
+<a href="https://lab-research-f5c1b.web.app/">DIoT Lab for HSTU Professor</a> <br/>
 <a href="https://charming-cottage.web.app/">Charming Cottage</a>
 
 ---
