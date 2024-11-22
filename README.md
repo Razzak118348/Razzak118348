@@ -16,11 +16,11 @@ Abdur Razzak</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning js and Ract <a href="">100DaysOfjs</a>
+- 🌱 I’m currently learning Mongodb and Mysql Database management system <a href="https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/">Mongodb</a> and <a href="https://www.w3schools.com/MySQL/default.asp">MySql</a>
 
-- 📝 I regularly write articles on :
+- 📝 I regularly write articles on : React 
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **React.js and node.js**
 
 - 📫 How to reach me **abdurrazzak118348@gmail.com**
 
@@ -52,15 +52,11 @@ Abdur Razzak</a></h1>
 
 </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python]()
-- [Convert a image to sketch using python]()
-- [Upload your project/files in GitHub using commands]()
-<!-- BLOG-POST-LIST:END -->
-
+### Some Projects live link 
+[https://github.com/Razzak118348/CraftedCanvas-client-site]
+[https://github.com/Razzak118348/Lab-website] 
+[https://github.com/Razzak118348/Book-Revie]
+[https://github.com/Razzak118348/hstu-buss-solution]
 ---
 
 
