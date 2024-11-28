@@ -170,6 +170,100 @@
 <!--START_SECTION:waka-->
 
 
+### Personal Projects
+
+<table>
+    <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+        <th>Technologies</th>
+        <th>Links</th>
+    </tr>
+    <tr>
+        <td>DIoT Lab</td>
+        <td>DIoT Lab is a cutting-edge platform designed to support academic research and innovation in the Internet of Things (IoT) domain. Created for university students and researchers, it serves as a hub for over 200 students to explore, collaborate, and contribute to groundbreaking projects.</td>
+        <td>React.js, Javascript, Tailwind css, HTML</td>
+        <td> <a href="https://github.com/Razzak118348/Lab-website">Frontend</a>, <a href="https://diotlab.com">Live</a></td>
+    </tr>
+    <tr>
+        <td>Crafted Canvas</td>
+        <td>Make your craft publish world wide and you can update and change your added craft and you can delete also. you can buy another craft and sell your craft .</td>
+        <td>React.js, javascript, taiwind css, html for frontend and node.js, express.js, mongodb for backend</td>
+        <td><a href="https://github.com/Razzak118348/CraftedCanvas-server-site">Backend</a>, <a href="https://github.com/Razzak118348/CraftedCanvas-client-site">Frontend</a>,  <a href="https://craftedcanvas10.web.app/">Live</a></td>
+    </tr>
+<!--     <tr>
+        <td>Chat Application</td>
+        <td>A live chat application developed with Node.js, Express.js, and Ejs for server-side development. It uses MongoDB with Mongoose for data storage and Socket.io for concurrent user connections. Custom authentication is implemented using pure Node.js, and JWT generation ensures security.</td>
+        <td>Node.js, Express.js, Ejs, MongoDB, Socket.io</td>
+        <td><a href="https://github.com/hr-sobuj/chat-application">Backend</a>, <a href="http://chat-application.hrsobuj.com/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Quiz Application</td>
+        <td>An authentication-based quiz application that allows users to play quizzes and provides detailed results with correct answers. It's built using React.js and utilizes Firebase for smooth functionality.</td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://jovial-lovelace-ec3130.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>CGPA Calculator</td>
+        <td>A user-friendly tool for easily calculating GPA and CGPA. It also offers the ability to design a cover page for university students. The project is built using React.js, providing a responsive and intuitive experience.</td>
+        <td>React.js</td>
+        <td><a href="https://cgpa-calculator-hstu.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Madrasatus Suffah</td>
+        <td>A school website with authentication features for teachers. Teachers have access to a dashboard where they can perform various activities, including publishing notices and sharing results. The platform is built using Django, ensuring a secure and efficient environment.</td>
+        <td>Django</td>
+        <td><a href="http://madrasatus-suffah.hrsobuj.com/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Publication</td>
+        <td>A simple online bookshop where users can browse and purchase books. It offers a user-friendly interface and secure transactions, making it easy for anyone to find and buy books they desire.</td>
+        <td>Django</td>
+        <td><a href="http://publication.hrsobuj.com/">Live</a></td>
+    </tr>
+    <tr>
+        <td>HSTU Transport System</td>
+        <td>A bus schedule system designed for HSTU students. Students can access updated bus schedules and request or acquire bus services from the university administration. The system is built using React.js and Firebase for efficient functionality.</td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://transport-management-system.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Blood Bank Management</td>
+        <td>A simple blood bank system that allows users to search for blood donors and register as donors. It facilitates a crucial aspect of healthcare by connecting those in need of blood with willing donors. The system is built using React.js and Firebase for efficiency.</td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://blood-donation-system-three.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Dashboard</td>
+        <td>A simple and elegant dashboard layout that can be customized for various purposes. It's built using Next.js for a responsive and efficient design.</td>
+        <td>Next.js</td>
+        <td><a href="https://admin-panel-reactjs-tailwindcss.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Portfolio Template</td>
+        <td>A clean and minimalistic portfolio template, ideal for showcasing your work and personal projects. It's built using HTML and CSS for easy customization.</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://habibur-rahman-sobuj-frontend.vercel.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Burger Builder</td>
+        <td>A fun and interactive React.js project that allows users to create custom burgers. It's integrated with Firebase for real-time data storage, creating an engaging experience for users.</td>
+        <td>React.js, Firebase</td>
+        <td><a href="https://burger-builder-3abd7.web.app/">Live</a></td>
+    </tr>
+    <tr>
+        <td>eCommerce Template Design</td>
+        <td>A sleek and modern design for an online store. It's crafted using HTML and CSS, providing a visually appealing and functional template for e-commerce businesses.</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://hr-sobuj.github.io/eCommerce/">Live</a></td>
+    </tr>
+    <tr>
+        <td>Blog Template Design</td>
+        <td>An elegant and user-friendly layout for bloggers. With its clean design and HTML/CSS foundation, it's a great choice for sharing your thoughts and content online.</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://hr-sobuj.github.io/blog/">Live</a></td>
+    </tr> -->
+</table>
 
 
 ### Some Projects live link 
