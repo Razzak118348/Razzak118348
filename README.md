@@ -3,19 +3,22 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Abdur+Razzak..;CSE+Student;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Abdur+Razzak..;MERN+Stack+Developer..;Software+Engineer+....&center=true"></a></p>
 <h3 align="center">A passionate Wev Developer from Bangladesh </h3>
+<p align="center">
+ 
+</p>
 
 
-- 🔭 I’m currently learning full stack web development Dedicately <a href=""></a>
+- 🔭 I’m currently learning full stack web development Dedicately 
 
-- 🌱 I’m currently Working To make dynamic website by the help of js (React-Native)
+- 🌱 I’m currently Working To make dynamic website by the help of js (React and node.js)
 
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning Mongodb and Mysql Database management system <a href="https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/">Mongodb</a> and <a href="https://www.w3schools.com/MySQL/default.asp">MySql</a>
 
-- 📝 I regularly write articles on : React 
+- 📝 I regularly write articles on : React and JavaScript
 
 - 💬 Ask me about **React.js and node.js**
 
@@ -25,9 +28,6 @@
 <br/>
 
 		
-
-
-    
 
     
 # 🖥️ Technical Skills: 
@@ -159,6 +159,8 @@
   </a>
 </p>
 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razzak118348&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Razzak118348&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
@@ -169,6 +171,49 @@
 ![](https://github-profile-trophy.vercel.app/?username=Razzak118348&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
+## Technologies
+
+### 💻 Programming Languages:
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+	<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+</div>
+
+### 🎨 Frontend Technologies:
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</div>
+
+### 🎯 Backend Technologies:
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</div>
+
+
+### 📚 Frameworks and Libraries:
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+
+
+</div>
+
+### 🗄️ Databases:
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</div>
 
 ### Personal Projects
 
