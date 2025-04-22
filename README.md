@@ -231,10 +231,16 @@
         <td> <a href="https://github.com/Razzak118348/Lab-website">Frontend</a>, <a href="https://diotlab.com">Live</a></td>
     </tr>
     <tr>
+        <td>Alpha Community Musical Brand</td>
+        <td>This is a custom-designed, responsive website for Alpha Community, a bold and energetic rock music brand. The website captures the essence of rock culture with a striking homepage background, event highlights, and an engaging user interface.</td>
+        <td>React.js, Javascript, Tailwind css,Material UI HTML</td>
+        <td> <a href="https://github.com/Razzak118348/Alpha-community">Frontend</a>, <a href="">Live</a></td>
+    </tr>
+    <tr>
         <td>Crafted Canvas</td>
         <td>Make your craft publish world wide and you can update and change your added craft and you can delete also. you can buy another craft and sell your craft .</td>
         <td>React.js, javascript, taiwind css, html for frontend and node.js, express.js, mongodb for backend</td>
-        <td><a href="https://github.com/Razzak118348/CraftedCanvas-server-site">Backend</a>, <a href="https://github.com/Razzak118348/CraftedCanvas-client-site">Frontend</a>,  <a href="https://craftedcanvas10.web.app/">Live</a></td>
+        <td><a href="https://github.com/Razzak118348/CraftedCanvas-server-site">Backend</a>, <a href="https://loquacious-caramel-8a51e9.netlify.app/">Live</a></td>
     </tr>
 
 </table>
