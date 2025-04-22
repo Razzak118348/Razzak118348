@@ -234,7 +234,7 @@
         <td>Alpha Community Musical Brand</td>
         <td>This is a custom-designed, responsive website for Alpha Community, a bold and energetic rock music brand. The website captures the essence of rock culture with a striking homepage background, event highlights, and an engaging user interface.</td>
         <td>React.js, Javascript, Tailwind css,Material UI HTML</td>
-        <td> <a href="https://github.com/Razzak118348/Alpha-community">Frontend</a>, <a href="">Live</a></td>
+        <td> <a href="https://github.com/Razzak118348/Alpha-community">Frontend</a>, <a href="https://loquacious-caramel-8a51e9.netlify.app/">Live</a></td>
     </tr>
     <tr>
         <td>Crafted Canvas</td>
