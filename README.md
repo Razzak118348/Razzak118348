@@ -240,7 +240,7 @@
         <td>Crafted Canvas</td>
         <td>Make your craft publish world wide and you can update and change your added craft and you can delete also. you can buy another craft and sell your craft .</td>
         <td>React.js, javascript, taiwind css, html for frontend and node.js, express.js, mongodb for backend</td>
-        <td><a href="https://github.com/Razzak118348/CraftedCanvas-server-site">Backend</a>, <a href="https://loquacious-caramel-8a51e9.netlify.app/">Live</a></td>
+        <td><a href="https://github.com/Razzak118348/CraftedCanvas-server-site">Backend</a>, <a href="https://craftedcanvas10.web.app/">Live</a></td>
     </tr>
 
 </table>
