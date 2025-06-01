@@ -10,8 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently learning full stack web development Dedicately 
-
+- 🔭 I’m currently a full stack(MERN) web developer and a software engineer trainee of NerdCoders Ltd.
 - 🌱 I’m currently Working To make dynamic website by the help of js (React and node.js)
 
 - 🤝 I’m available for freelancing.
