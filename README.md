@@ -15,7 +15,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Mongodb and Mysql Database management system <a href="https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/">Mongodb</a> and <a href="https://www.w3schools.com/MySQL/default.asp">MySql</a>
+- 🌱 I’m currently learning Mongodb and Mysql Database management system <a href="https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/">Mongodb</a> and <a href="https://nextjs.org/docs">Next.js</a>
 
 - 📝 I regularly write articles on : React and JavaScript
 
