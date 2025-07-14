@@ -225,7 +225,7 @@
     </tr>
         <tr>
         <td>KajBondu</td>
-        <td>KajBondu is a modern web platform where users can effortlessly book various home and commercial services like cleaning, painting, plumbing, and more. This MERN-based platform provides seamless service browsing, filtering, and booking features..</td>
+        <td>KajBondu is a modern web platform where users can effortlessly book various home and commercial services like cleaning, painting, plumbing, and more. This MERN-based platform provides seamless service browsing, filtering, and booking features..The admin Pannel also added in this project to maintain booking and worker.</td>
         <td>MongoDB,Express.js,Node.js,React.js, javaScript,TailwindCss, CSS5,HTML,MaterialUI</td>
         <td> <a href="">This is a Private project</a>, <a href="https://kajbondu.web.app/">Live</a></td>
     </tr>	
