@@ -223,6 +223,12 @@
         <th>Technologies</th>
         <th>Links</th>
     </tr>
+        <tr>
+        <td>KajBondu</td>
+        <td>KajBondu is a modern web platform where users can effortlessly book various home and commercial services like cleaning, painting, plumbing, and more. This MERN-based platform provides seamless service browsing, filtering, and booking features..</td>
+        <td>MongoDB,Express.js,Node.js,React.js, javaScript,TailwindCss, CSS5,HTML,MaterialUI</td>
+        <td> <a href="">This is a Private project</a>, <a href="https://kajbondu.web.app/">Live</a></td>
+    </tr>	
     <tr>
         <td>DIoT Lab</td>
         <td>DIoT Lab is a cutting-edge platform designed to support academic research and innovation in the Internet of Things (IoT) domain. Created for university students and researchers, it serves as a hub for over 200 students to explore, collaborate, and contribute to groundbreaking projects.</td>
