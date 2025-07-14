@@ -1,4 +1,4 @@
-![profileCover](https://github.com/user-attachments/assets/2388378e-7c62-494b-a9c2-ec17765d248e)
+![profileCover](https://raw.githubusercontent.com/Razzak118348/Razzak118348/main/cover.jpeg)
 
 
 <p align="center">
