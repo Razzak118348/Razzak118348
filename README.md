@@ -248,10 +248,20 @@
         <td><a href="https://github.com/Razzak118348/CraftedCanvas-client-site">Frontend</a>,<a href="https://github.com/Razzak118348/CraftedCanvas-server-site">Backend</a>, <a href="https://craftedcanvas10.web.app/">Live</a></td>
     </tr>
 
+   <tr>
+        <td>YouTube Controlar Extension</td>
+        <td>This extension allows users to hide YouTube Shorts to make YouTube more productive.
+ Built with JavaScript, HTML, and CSS, following official Chrome Extension guidelines.
+Lightweight, simple, and user-friendly!</td>
+        <td>HTML,CSS,JavaScript,JSON</td>
+        <td><a href="https://github.com/Razzak118348/Youtube-filter-extension">Repository</a></td>
+    </tr>
+
 </table>
 
 
 ### Some Projects live link 
+<a href="https://github.com/Razzak118348/Youtube-filter-extension">YouTube controlar extension</a> <br/>
 <a href="https://craftedcanvas10.web.app/">Crafted Canvas</a> <br/>
 <a href="https://github.com/Razzak118348/car-service-client">Car Service</a> <br/>
 <a href="https://charming-cottage.web.app/">Charming Cottage</a>
@@ -261,6 +271,7 @@
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Razzak118348.Razzak118348.svg)
 
 ---
+
 
 
 
