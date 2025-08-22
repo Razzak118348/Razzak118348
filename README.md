@@ -233,7 +233,7 @@
         <td>HSTU Job Portal</td>
         <td>This is a MERN Stack Job Portal Application where users can browse jobs, apply for jobs, and view their applied jobs in a personal dashboard. It includes authentication, job posting, job application tracking, and viewing applied job details.</td>
         <td>MongoDB,Express.js,Node.js,React.js, javaScript,TailwindCss, CSS5,HTML,MaterialUI, Firebase</td>
-        <td> <a href="https://github.com/Razzak118348/University-job-fair">Frontend</a>, <a href="https://kajbondu.web.app/">Live</a> <a href="https://github.com/Razzak118348/University-job-portal-server">Backend</a></td>
+        <td> <a href="https://github.com/Razzak118348/University-job-fair">Frontend</a>, <a href="https://solojobportal.web.app/">Live</a> <a href="https://github.com/Razzak118348/University-job-portal-server">Backend</a></td>
     </tr>
 <tr>
         <td>DIoT Lab</td>
@@ -278,6 +278,7 @@ Lightweight, simple, and user-friendly!</td>
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Razzak118348.Razzak118348.svg)
 
 ---
+
 
 
 
