@@ -228,8 +228,14 @@
         <td>KajBondu is a modern web platform where users can effortlessly book various home and commercial services like cleaning, painting, plumbing, and more. This MERN-based platform provides seamless service browsing, filtering, and booking features..The admin Pannel also added in this project to maintain booking and worker.</td>
         <td>MongoDB,Express.js,Node.js,React.js, javaScript,TailwindCss, CSS5,HTML,MaterialUI</td>
         <td> <a href="">This is a Private project</a>, <a href="https://kajbondu.web.app/">Live</a></td>
-    </tr>	
-    <tr>
+    </tr>
+      <tr>
+        <td>HSTU Job Portal</td>
+        <td>This is a MERN Stack Job Portal Application where users can browse jobs, apply for jobs, and view their applied jobs in a personal dashboard. It includes authentication, job posting, job application tracking, and viewing applied job details.</td>
+        <td>MongoDB,Express.js,Node.js,React.js, javaScript,TailwindCss, CSS5,HTML,MaterialUI, Firebase</td>
+        <td> <a href="https://github.com/Razzak118348/University-job-fair">Frontend</a>, <a href="https://kajbondu.web.app/">Live</a> <a href="https://github.com/Razzak118348/University-job-portal-server">Backend</a></td>
+    </tr>
+<tr>
         <td>DIoT Lab</td>
         <td>DIoT Lab is a cutting-edge platform designed to support academic research and innovation in the Internet of Things (IoT) domain. Created for university students and researchers, it serves as a hub for over 200 students to explore, collaborate, and contribute to groundbreaking projects.</td>
         <td>React.js, Javascript, Tailwind css, HTML</td>
@@ -262,6 +268,7 @@ Lightweight, simple, and user-friendly!</td>
 
 ### Some Projects live link 
 <a href="https://github.com/Razzak118348/Youtube-filter-extension">YouTube controlar extension</a> <br/>
+<a href="https://solojobportal.web.app/">HSTU Job Portal</a>
 <a href="https://craftedcanvas10.web.app/">Crafted Canvas</a> <br/>
 <a href="https://github.com/Razzak118348/car-service-client">Car Service</a> <br/>
 <a href="https://charming-cottage.web.app/">Charming Cottage</a>
@@ -271,6 +278,7 @@ Lightweight, simple, and user-friendly!</td>
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Razzak118348.Razzak118348.svg)
 
 ---
+
 
 
 
