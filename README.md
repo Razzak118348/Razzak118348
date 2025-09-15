@@ -9,20 +9,27 @@
  
 </p>
 
+<h2>About Me</h2>
 
-- 🔭 I’m currently a full stack(MERN) web developer and a software engineer trainee of NerdCoders Ltd.
-- 🌱 I’m currently Working To make dynamic website by the help of js (React and node.js)
+ <pre>
+	 👋 Hi, I’m Abdur Razzak, a passionate MERN Stack Developer skilled in building responsive and scalable full-stack applications with MongoDB, Express.js, React, and Node.js.
 
-- 🤝 I’m available for freelancing.
+🌟 I recently worked as a Software Engineer (Trainee) at NerdCoders LTD, Dhaka, Bangladesh (Feb 2025 – June 2025), where I:
 
-- 🌱 I’m currently learning Mongodb and Mysql Database management system <a href="https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/">Mongodb</a> and <a href="https://nextjs.org/docs">Next.js</a>
+🚀 Contributed to frontend/backend development using JavaScript, React, Next.js, and FastAPI.
 
-- 📝 I regularly write articles on : React and JavaScript
+🧩 Applied Clean Code principles (DRY, KISS, SOLID) and Software Design Patterns to ensure maintainable development.
 
-- 💬 Ask me about **React.js and node.js**
+🔄 Used Git for version control; collaborated effectively via PRs and code reviews.
 
-- 📫 How to reach me **abdurrazzak118348@gmail.com**
+📅 Participated in Agile rituals — daily stand-ups, sprint planning, and team collaboration.
 
+🌱 I’m currently learning MongoDB, MySQL, and Next.js to sharpen my full-stack expertise.
+🤝 I’m open to freelancing opportunities and excited to contribute to impactful projects.
+📝 I write articles on React and JavaScript.
+💬 Ask me about React.js and Node.js.
+📫 Reach me at: abdurrazzak118348@gmail.com
+ </pre>
 - 📄 Know about my experiences : <a href="https://www.linkedin.com/in/abdur-razzak-0a3b91321/">Abdur Razzak </a>
 <br/>
 
@@ -278,6 +285,7 @@ Lightweight, simple, and user-friendly!</td>
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Razzak118348.Razzak118348.svg)
 
 ---
+
 
 
 
