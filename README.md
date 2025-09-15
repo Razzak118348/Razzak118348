@@ -183,14 +183,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razzak118348&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Razzak118348&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razzak118348&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Razzak118348&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Razzak118348&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
+
+## GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Razzak118348&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--START_SECTION:waka-->
+
 
 ## Technologies
 
@@ -300,6 +302,7 @@ Lightweight, simple, and user-friendly!</td>
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Razzak118348.Razzak118348.svg)
 
 ---
+
 
 
 
