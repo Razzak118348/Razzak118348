@@ -11,25 +11,40 @@
 
 <h2>About Me</h2>
 
- <pre>
-	 👋 Hi, I’m Abdur Razzak, a passionate MERN Stack Developer skilled in building responsive and scalable full-stack applications with MongoDB, Express.js, React, and Node.js.
+## 👋 Hi, I’m Abdur Razzak  
 
-🌟 I recently worked as a Software Engineer (Trainee) at NerdCoders LTD, Dhaka, Bangladesh (Feb 2025 – June 2025), where I:
+🚀 Passionate **MERN Stack Developer** skilled in building responsive and scalable full-stack applications with  
+**MongoDB, Express.js, React, and Node.js**.  
 
-🚀 Contributed to frontend/backend development using JavaScript, React, Next.js, and FastAPI.
+---
 
-🧩 Applied Clean Code principles (DRY, KISS, SOLID) and Software Design Patterns to ensure maintainable development.
+### 🌟 Experience  
+**Software Engineer (Trainee) — NerdCoders LTD, Dhaka, Bangladesh**  
+*(Feb 2025 – June 2025)*  
+- 💻 Contributed to **frontend/backend development** using **JavaScript, React, Next.js, and FastAPI**.  
+- 🧩 Applied **Clean Code principles** (DRY, KISS, SOLID) & **Software Design Patterns** for maintainable development.  
+- 🔄 Used **Git** for version control; collaborated effectively via **PRs and code reviews**.  
+- 📅 Participated in **Agile rituals** — daily stand-ups, sprint planning, and teamwork.  
 
-🔄 Used Git for version control; collaborated effectively via PRs and code reviews.
+---
 
-📅 Participated in Agile rituals — daily stand-ups, sprint planning, and team collaboration.
+### 🌱 Currently Learning  
+- MongoDB  
+- MySQL  
+- Next.js
+- Redux.js  
 
-🌱 I’m currently learning MongoDB, MySQL, and Next.js to sharpen my full-stack expertise.
-🤝 I’m open to freelancing opportunities and excited to contribute to impactful projects.
-📝 I write articles on React and JavaScript.
-💬 Ask me about React.js and Node.js.
-📫 Reach me at: abdurrazzak118348@gmail.com
- </pre>
+---
+
+### 🤝 Let’s Connect  
+- 📝 I write articles on **React & JavaScript**  
+- 💬 Ask me about **React.js and Node.js**  
+- 📫 Reach me at: **abdurrazzak118348@gmail.com**  
+
+---
+
+⚡ **Mission:** Crafting clean, scalable, and user-focused applications while continuously growing as a developer within collaborative teams.  
+
 - 📄 Know about my experiences : <a href="https://www.linkedin.com/in/abdur-razzak-0a3b91321/">Abdur Razzak </a>
 <br/>
 
@@ -285,6 +300,7 @@ Lightweight, simple, and user-friendly!</td>
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Razzak118348.Razzak118348.svg)
 
 ---
+
 
 
 
