@@ -185,6 +185,9 @@
 
 # 📊 GitHub Stats:
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Razzak118348&theme=react-dark)
+![Metrics](https://metrics.lecoq.io/Razzak118348?template=classic&languages=1&isocalendar=1&stars=1&repositories=1)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razzak118348&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 ![](https://github-readme-stats.vercel.app/api?username=Razzak118348&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Razzak118348&theme=radical&hide_border=false)
@@ -305,6 +308,7 @@ Lightweight, simple, and user-friendly!</td>
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Razzak118348.Razzak118348.svg)
 
 ---
+
 
 
 
