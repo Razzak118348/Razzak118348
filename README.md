@@ -180,26 +180,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
-
-
-
-# 📊 GitHub Stats:
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Razzak118348&theme=react-dark)
-![Metrics](https://metrics.lecoq.io/Razzak118348?template=classic&languages=1&isocalendar=1&stars=1&repositories=1)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razzak118348&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=Razzak118348&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Razzak118348&theme=radical&hide_border=false)
-<br/>
-
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Razzak118348&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Razzak118348&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<hr/>
 ## Technologies
 
 ### 💻 Programming Languages:
@@ -243,6 +224,26 @@
      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
+
+
+# 📊 GitHub Stats:
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Razzak118348&theme=react-dark)
+![Metrics](https://metrics.lecoq.io/Razzak118348?template=classic&languages=1&isocalendar=1&stars=1&repositories=1)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razzak118348&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Razzak118348&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Razzak118348&theme=radical&hide_border=false)
+<br/>
+
+## GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Razzak118348&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Razzak118348&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 ### Personal Projects
 
@@ -308,6 +309,7 @@ Lightweight, simple, and user-friendly!</td>
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Razzak118348.Razzak118348.svg)
 
 ---
+
 
 
 
